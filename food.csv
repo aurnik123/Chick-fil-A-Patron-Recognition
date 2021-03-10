@@ -1,0 +1,1001 @@
+age,gender,ethnic_origin,food
+38,male,white,Chicken Sandwich
+34,male,black,Chicken Sandwich
+23,male,white,Chiken Nuggets 10pc
+42,female,asia,Spicy Deluxe Sandwich
+65,male,india,chicken tortilla soup
+25,female,white,chicken noodle soup
+31,female,india,Chiken Nuggets 6pc
+38,female,white,nothing
+32,female,india,Spicy Chicken Sandwich
+22,male,india,Chiken Nuggets 6pc
+18,female,white,Chiken Nuggets 10pc
+30,male,india,Chicken Sandwich
+54,male,white,chicken tortilla soup
+28,male,white,Chicken Sandwich
+46,male,india,Grilled Chicken Sandwich
+27,male,white,Chicken Sandwich
+32,female,india,Spicy Chicken Sandwich
+21,male,india,Chicken Sandwich
+6,female,black,chicken noodle soup
+26,male,white,chicken tortilla soup
+17,female,india,Chiken Nuggets 10pc
+16,male,white,Spicy Chicken Sandwich
+48,female,black,Spicy Deluxe Sandwich
+23,male,white,Spicy Chicken Sandwich
+17,male,asia,Chicken Sandwich
+15,male,asia,Chicken Sandwich
+56,male,black,Grilled Chicken Sandwich
+15,male,black,chicken tortilla soup
+37,male,white,Grilled Chicken Sandwich
+41,male,white,Spicy Deluxe Sandwich
+51,male,black,Grilled Chicken Sandwich
+9,female,asia,Chicken Sandwich
+20,male,asia,Chicken Sandwich
+20,male,asia,Chiken Nuggets 10pc
+39,female,asia,Grilled Chicken Sandwich
+94,male,black,Spicy Deluxe Sandwich
+21,male,white,Chicken Sandwich
+38,male,white,Chicken Sandwich
+16,female,white,Grilled Chicken Sandwich
+11,male,black,Chiken Nuggets 10pc
+17,male,asia,Grilled Chicken Sandwich
+43,male,white,Chiken Nuggets 6pc
+21,female,white,Grilled Chicken Sandwich
+25,male,white,Spicy Deluxe Sandwich
+93,female,white,chicken noodle soup
+51,female,black,chicken noodle soup
+23,female,asia,chicken noodle soup
+31,male,white,Chiken Nuggets 10pc
+24,male,white,Chicken Sandwich
+32,male,black,Spicy Chicken Sandwich
+12,male,black,chicken tortilla soup
+22,female,black,Grilled Chicken Sandwich
+57,male,white,Grilled Chicken Sandwich
+32,male,white,Chiken Nuggets 6pc
+42,male,india,Grilled Chicken Sandwich
+36,female,white,Chicken Sandwich
+28,male,white,Chiken Nuggets 10pc
+18,male,asia,Grilled Chicken Sandwich
+33,male,black,Spicy Chicken Sandwich
+20,male,white,Spicy Chicken Sandwich
+35,male,asia,Chicken Sandwich
+28,male,asia,Chiken Nuggets 10pc
+31,female,white,Chicken Sandwich
+25,female,white,chicken noodle soup
+37,male,white,Chicken Sandwich
+20,male,black,Spicy Deluxe Sandwich
+17,male,black,Chicken Sandwich
+26,male,india,Grilled Chicken Sandwich
+84,male,white,Chicken Sandwich
+40,female,asia,chicken noodle soup
+53,female,white,Spicy Deluxe Sandwich
+17,male,white,Chiken Nuggets 6pc
+22,female,black,Chicken Sandwich
+20,female,white,Spicy Chicken Sandwich
+93,female,white,Chicken Sandwich
+28,male,black,Grilled Chicken Sandwich
+28,female,white,Chicken Sandwich
+16,female,asia,Spicy Chicken Sandwich
+43,male,white,Spicy Chicken Sandwich
+28,female,white,Chicken Sandwich
+39,male,india,Grilled Chicken Sandwich
+18,male,black,Grilled Chicken Sandwich
+26,female,white,Salad Meal
+23,female,black,Chiken Nuggets 10pc
+53,female,white,chicken tortilla soup
+24,male,black,Chiken Nuggets 6pc
+16,female,asia,Chicken Sandwich
+31,female,white,Spicy Deluxe Sandwich
+18,female,white,Grilled Chicken Sandwich
+58,male,white,Grilled Chicken Sandwich
+38,female,white,Grilled Chicken Sandwich
+25,male,white,Spicy Chicken Sandwich
+21,female,asia,Salad Meal
+20,female,black,Salad Meal
+17,male,black,Chicken Sandwich
+26,male,black,Salad Meal
+30,male,white,chicken tortilla soup
+43,female,white,Chicken Sandwich
+20,female,black,Spicy Chicken Sandwich
+29,male,white,Chicken Sandwich
+48,male,white,Grilled Chicken Sandwich
+56,female,black,Chiken Nuggets 10pc
+24,male,white,Grilled Chicken Sandwich
+14,male,white,Salad Meal
+47,male,white,Chicken Sandwich
+27,male,black,Chicken Sandwich
+81,male,white,Grilled Chicken Sandwich
+34,male,asia,chicken noodle soup
+22,female,white,Grilled Chicken Sandwich
+20,female,white,Chicken Sandwich
+13,male,india,Chicken Sandwich
+54,female,white,Grilled Chicken Sandwich
+9,male,black,chicken noodle soup
+29,female,black,Spicy Chicken Sandwich
+26,female,white,Spicy Chicken Sandwich
+31,male,white,nothing
+30,male,asia,Chiken Nuggets 10pc
+25,male,white,Chiken Nuggets 6pc
+31,male,white,Spicy Chicken Sandwich
+15,female,white,Spicy Chicken Sandwich
+21,female,white,Spicy Chicken Sandwich
+39,female,white,Chiken Nuggets 10pc
+36,male,black,Grilled Chicken Sandwich
+22,male,asia,Grilled Chicken Sandwich
+38,female,white,Grilled Chicken Sandwich
+64,female,india,Spicy Chicken Sandwich
+20,male,white,Spicy Chicken Sandwich
+29,male,black,Grilled Chicken Sandwich
+42,female,asia,Spicy Chicken Sandwich
+40,female,white,chicken noodle soup
+7,male,asia,Chicken Sandwich
+44,male,white,Spicy Chicken Sandwich
+29,female,white,Chicken Sandwich
+40,male,white,Grilled Chicken Sandwich
+33,female,white,Chicken Sandwich
+21,female,asia,Spicy Chicken Sandwich
+35,male,white,Chiken Nuggets 10pc
+19,male,white,Spicy Chicken Sandwich
+31,male,white,Grilled Chicken Sandwich
+16,male,white,Grilled Chicken Sandwich
+31,male,black,Chicken Sandwich
+70,female,white,Salad Meal
+20,male,black,Chiken Nuggets 10pc
+40,female,india,Chicken Sandwich
+26,female,white,Spicy Chicken Sandwich
+33,male,white,Grilled Chicken Sandwich
+46,male,india,Chiken Nuggets 6pc
+21,female,white,Spicy Chicken Sandwich
+17,female,black,Spicy Chicken Sandwich
+50,female,white,Spicy Chicken Sandwich
+21,male,black,Chicken Sandwich
+30,female,white,Spicy Deluxe Sandwich
+10,male,white,Chiken Nuggets 6pc
+24,male,india,Chiken Nuggets 6pc
+42,female,black,Spicy Deluxe Sandwich
+18,female,white,Grilled Chicken Sandwich
+22,male,asia,Chiken Nuggets 10pc
+20,male,white,Spicy Deluxe Sandwich
+58,male,white,Chicken Sandwich
+11,male,white,Spicy Chicken Sandwich
+21,male,black,Grilled Chicken Sandwich
+25,male,white,Spicy Chicken Sandwich
+21,female,black,Spicy Chicken Sandwich
+41,female,white,Spicy Deluxe Sandwich
+96,male,white,Chicken Sandwich
+38,male,white,Spicy Chicken Sandwich
+30,male,india,Grilled Chicken Sandwich
+50,male,white,Spicy Chicken Sandwich
+40,male,black,Grilled Chicken Sandwich
+11,male,white,Chiken Nuggets 6pc
+61,female,white,Salad Meal
+37,male,white,Chicken Sandwich
+15,male,black,Chiken Nuggets 6pc
+23,male,asia,Spicy Chicken Sandwich
+27,male,white,Grilled Chicken Sandwich
+35,male,white,Spicy Chicken Sandwich
+32,male,asia,Spicy Chicken Sandwich
+25,female,india,Spicy Chicken Sandwich
+10,female,black,Grilled Chicken Sandwich
+20,male,white,Chiken Nuggets 10pc
+45,male,india,Grilled Chicken Sandwich
+27,female,india,Spicy Deluxe Sandwich
+35,female,black,Chicken Sandwich
+36,female,white,Chicken Sandwich
+20,male,asia,Spicy Chicken Sandwich
+58,male,asia,Spicy Chicken Sandwich
+28,female,black,Chicken Sandwich
+48,male,black,Spicy Chicken Sandwich
+22,male,india,nothing
+14,female,white,chicken noodle soup
+26,male,asia,Chiken Nuggets 10pc
+34,female,india,chicken tortilla soup
+23,male,asia,Chicken Sandwich
+22,male,asia,Grilled Chicken Sandwich
+13,female,white,Grilled Chicken Sandwich
+34,male,white,Grilled Chicken Sandwich
+55,male,white,Chicken Sandwich
+34,female,india,Chiken Nuggets 6pc
+20,male,white,Chiken Nuggets 10pc
+34,male,asia,Chicken Sandwich
+14,male,asia,Salad Meal
+20,female,white,Grilled Chicken Sandwich
+29,male,black,Spicy Chicken Sandwich
+53,female,black,chicken noodle soup
+36,male,white,Spicy Chicken Sandwich
+39,female,india,Salad Meal
+28,male,asia,Grilled Chicken Sandwich
+21,male,black,Spicy Chicken Sandwich
+34,male,black,Spicy Chicken Sandwich
+31,female,india,Spicy Deluxe Sandwich
+22,female,black,Chiken Nuggets 6pc
+21,male,india,Grilled Chicken Sandwich
+56,male,india,Grilled Chicken Sandwich
+23,male,asia,Salad Meal
+36,female,white,nothing
+20,female,white,Spicy Chicken Sandwich
+33,female,asia,Grilled Chicken Sandwich
+21,male,asia,Grilled Chicken Sandwich
+20,male,white,Salad Meal
+19,female,white,Spicy Deluxe Sandwich
+18,male,black,Spicy Chicken Sandwich
+16,male,white,Chiken Nuggets 6pc
+54,male,white,Spicy Chicken Sandwich
+67,female,white,Chiken Nuggets 6pc
+25,female,white,Grilled Chicken Sandwich
+30,female,black,Chicken Sandwich
+24,male,asia,Chiken Nuggets 6pc
+20,male,black,Grilled Chicken Sandwich
+27,male,white,Spicy Deluxe Sandwich
+56,female,white,Grilled Chicken Sandwich
+56,male,white,Grilled Chicken Sandwich
+42,female,black,Chicken Sandwich
+14,male,black,Chicken Sandwich
+23,male,black,Spicy Deluxe Sandwich
+30,male,asia,Chicken Sandwich
+44,male,white,Grilled Chicken Sandwich
+33,female,white,Spicy Deluxe Sandwich
+48,male,white,Grilled Chicken Sandwich
+23,male,white,chicken noodle soup
+31,male,white,Grilled Chicken Sandwich
+33,male,white,Spicy Chicken Sandwich
+49,male,white,Chiken Nuggets 10pc
+32,male,white,Chicken Sandwich
+44,male,asia,Spicy Chicken Sandwich
+20,female,white,Chicken Sandwich
+25,male,white,Grilled Chicken Sandwich
+29,male,white,Grilled Chicken Sandwich
+25,female,asia,Chiken Nuggets 6pc
+25,female,black,Chicken Sandwich
+59,male,white,Spicy Chicken Sandwich
+18,female,india,Grilled Chicken Sandwich
+28,female,black,nothing
+54,female,asia,Salad Meal
+30,male,white,Chiken Nuggets 6pc
+26,male,white,Grilled Chicken Sandwich
+29,male,black,Spicy Chicken Sandwich
+64,female,white,Spicy Chicken Sandwich
+24,male,black,Spicy Deluxe Sandwich
+23,female,black,Chicken Sandwich
+44,female,black,Grilled Chicken Sandwich
+23,female,white,Chiken Nuggets 10pc
+17,female,white,Spicy Chicken Sandwich
+15,male,white,Chicken Sandwich
+34,male,black,Chicken Sandwich
+20,male,white,Chicken Sandwich
+33,male,white,Grilled Chicken Sandwich
+10,female,black,Chicken Sandwich
+51,male,asia,chicken noodle soup
+31,male,black,Chicken Sandwich
+41,male,white,Spicy Chicken Sandwich
+14,male,black,Spicy Deluxe Sandwich
+27,female,india,Salad Meal
+21,male,asia,Spicy Chicken Sandwich
+27,male,white,Spicy Deluxe Sandwich
+30,female,white,Grilled Chicken Sandwich
+40,female,white,Chiken Nuggets 6pc
+42,male,white,Chiken Nuggets 6pc
+33,male,white,Spicy Chicken Sandwich
+24,female,white,Chicken Sandwich
+33,male,white,Grilled Chicken Sandwich
+17,male,black,Chicken Sandwich
+21,female,white,Chiken Nuggets 10pc
+25,female,asia,Spicy Chicken Sandwich
+37,male,white,Chicken Sandwich
+25,male,india,Chicken Sandwich
+19,male,india,Spicy Chicken Sandwich
+18,male,black,Chicken Sandwich
+56,female,india,Grilled Chicken Sandwich
+3,male,asia,chicken noodle soup
+54,female,india,Grilled Chicken Sandwich
+20,female,white,Chicken Sandwich
+33,female,white,Spicy Deluxe Sandwich
+12,female,india,Chiken Nuggets 10pc
+21,male,black,Chicken Sandwich
+28,male,black,Grilled Chicken Sandwich
+43,female,asia,Grilled Chicken Sandwich
+25,female,black,Chicken Sandwich
+44,male,asia,chicken tortilla soup
+44,male,white,Grilled Chicken Sandwich
+17,male,black,Grilled Chicken Sandwich
+31,male,india,Chiken Nuggets 10pc
+31,female,white,chicken noodle soup
+23,male,asia,chicken noodle soup
+34,female,india,Spicy Chicken Sandwich
+21,male,asia,Spicy Deluxe Sandwich
+46,male,india,Chicken Sandwich
+27,male,white,chicken tortilla soup
+34,female,black,Grilled Chicken Sandwich
+56,male,asia,chicken noodle soup
+29,female,asia,Spicy Chicken Sandwich
+38,male,black,Chicken Sandwich
+24,female,black,Grilled Chicken Sandwich
+50,female,india,Grilled Chicken Sandwich
+22,male,india,chicken noodle soup
+50,female,black,chicken tortilla soup
+27,female,white,Chiken Nuggets 10pc
+41,male,white,chicken tortilla soup
+44,male,asia,chicken noodle soup
+43,female,white,Chicken Sandwich
+36,female,black,Spicy Chicken Sandwich
+28,male,black,Chicken Sandwich
+25,male,india,Grilled Chicken Sandwich
+31,male,black,Chiken Nuggets 6pc
+39,female,white,Chicken Sandwich
+30,male,white,Chiken Nuggets 6pc
+43,female,white,Grilled Chicken Sandwich
+26,male,white,Chiken Nuggets 6pc
+23,male,black,Grilled Chicken Sandwich
+43,female,white,Grilled Chicken Sandwich
+33,female,black,Chicken Sandwich
+32,female,white,nothing
+20,female,white,Spicy Chicken Sandwich
+42,female,white,Chiken Nuggets 10pc
+25,male,white,Chicken Sandwich
+32,male,black,Grilled Chicken Sandwich
+41,male,india,Spicy Chicken Sandwich
+50,male,black,Spicy Deluxe Sandwich
+79,male,white,Chicken Sandwich
+45,male,white,Chiken Nuggets 6pc
+24,male,white,Grilled Chicken Sandwich
+65,female,white,Spicy Chicken Sandwich
+20,female,white,Spicy Chicken Sandwich
+28,male,white,Chicken Sandwich
+5,female,black,Chiken Nuggets 6pc
+60,male,black,Grilled Chicken Sandwich
+34,female,black,Chicken Sandwich
+44,male,black,Grilled Chicken Sandwich
+44,female,white,Salad Meal
+17,male,black,Chiken Nuggets 6pc
+30,female,india,Spicy Chicken Sandwich
+28,female,black,Chiken Nuggets 6pc
+22,female,black,Spicy Chicken Sandwich
+34,male,black,chicken noodle soup
+39,female,india,Spicy Chicken Sandwich
+31,male,white,Spicy Chicken Sandwich
+23,female,india,Chicken Sandwich
+37,female,india,Spicy Chicken Sandwich
+8,female,black,Chicken Sandwich
+26,female,white,Chiken Nuggets 6pc
+43,male,asia,Chiken Nuggets 6pc
+9,male,black,Spicy Chicken Sandwich
+6,female,black,Salad Meal
+19,male,white,Chicken Sandwich
+32,male,black,Chiken Nuggets 10pc
+13,male,white,chicken noodle soup
+64,female,white,chicken noodle soup
+38,male,asia,Chiken Nuggets 10pc
+53,male,white,Chiken Nuggets 6pc
+29,male,black,Spicy Deluxe Sandwich
+46,male,black,chicken tortilla soup
+39,male,white,Grilled Chicken Sandwich
+26,female,india,Spicy Chicken Sandwich
+13,male,white,Spicy Chicken Sandwich
+59,male,white,Grilled Chicken Sandwich
+39,male,india,Grilled Chicken Sandwich
+20,male,asia,Chicken Sandwich
+24,female,white,Grilled Chicken Sandwich
+50,male,asia,Salad Meal
+32,female,asia,Spicy Chicken Sandwich
+5,female,white,Chicken Sandwich
+30,male,white,Chicken Sandwich
+40,female,white,Chicken Sandwich
+28,female,white,Grilled Chicken Sandwich
+31,male,white,Chicken Sandwich
+32,male,black,Grilled Chicken Sandwich
+30,female,asia,Spicy Deluxe Sandwich
+30,male,white,Spicy Deluxe Sandwich
+22,male,black,Spicy Deluxe Sandwich
+20,male,india,Grilled Chicken Sandwich
+49,female,black,Chiken Nuggets 10pc
+25,male,black,Chiken Nuggets 6pc
+35,male,asia,Spicy Deluxe Sandwich
+27,male,white,Spicy Chicken Sandwich
+25,male,black,Chicken Sandwich
+51,male,white,Chicken Sandwich
+33,male,black,Spicy Deluxe Sandwich
+59,male,asia,Chicken Sandwich
+41,male,black,Chicken Sandwich
+21,male,white,Spicy Chicken Sandwich
+76,male,white,Grilled Chicken Sandwich
+54,female,white,Grilled Chicken Sandwich
+19,male,white,chicken noodle soup
+17,female,asia,Chicken Sandwich
+38,male,white,Chiken Nuggets 10pc
+14,male,black,Spicy Chicken Sandwich
+24,male,white,Spicy Chicken Sandwich
+49,female,white,Spicy Chicken Sandwich
+25,female,white,nothing
+25,male,white,Grilled Chicken Sandwich
+44,female,white,Chicken Sandwich
+35,female,white,Spicy Deluxe Sandwich
+34,female,white,Grilled Chicken Sandwich
+25,male,white,Grilled Chicken Sandwich
+24,male,white,Grilled Chicken Sandwich
+30,male,asia,Chiken Nuggets 10pc
+11,male,white,Spicy Chicken Sandwich
+41,male,india,Spicy Chicken Sandwich
+21,female,india,Chiken Nuggets 10pc
+34,male,asia,Spicy Deluxe Sandwich
+43,male,india,Grilled Chicken Sandwich
+28,female,black,Grilled Chicken Sandwich
+51,female,white,Chicken Sandwich
+35,male,white,chicken noodle soup
+53,female,asia,Spicy Deluxe Sandwich
+34,male,india,Spicy Chicken Sandwich
+26,male,black,Spicy Chicken Sandwich
+63,male,asia,Grilled Chicken Sandwich
+20,female,white,Spicy Chicken Sandwich
+63,female,white,Spicy Chicken Sandwich
+19,male,asia,Chiken Nuggets 6pc
+44,male,asia,Chiken Nuggets 10pc
+15,female,black,Grilled Chicken Sandwich
+31,male,white,Grilled Chicken Sandwich
+46,female,india,Chicken Sandwich
+28,male,white,Grilled Chicken Sandwich
+47,female,asia,Chicken Sandwich
+17,female,india,Grilled Chicken Sandwich
+20,male,asia,Spicy Chicken Sandwich
+13,male,black,Grilled Chicken Sandwich
+32,male,india,Grilled Chicken Sandwich
+31,female,black,Spicy Chicken Sandwich
+23,male,black,Chicken Sandwich
+31,female,india,Spicy Chicken Sandwich
+30,male,white,Spicy Chicken Sandwich
+63,female,black,Chicken Sandwich
+60,female,black,Spicy Chicken Sandwich
+28,male,white,Chiken Nuggets 10pc
+34,male,white,Spicy Chicken Sandwich
+19,male,white,Spicy Deluxe Sandwich
+31,male,white,chicken noodle soup
+36,male,white,Grilled Chicken Sandwich
+25,male,white,Chiken Nuggets 6pc
+33,male,india,Spicy Chicken Sandwich
+0,male,white,Spicy Deluxe Sandwich
+42,male,asia,Spicy Chicken Sandwich
+37,male,white,Grilled Chicken Sandwich
+18,female,black,Spicy Chicken Sandwich
+25,male,white,chicken tortilla soup
+24,male,asia,Chiken Nuggets 6pc
+64,male,white,Grilled Chicken Sandwich
+18,female,white,Grilled Chicken Sandwich
+34,male,black,Chiken Nuggets 6pc
+23,female,india,Chicken Sandwich
+93,female,black,Grilled Chicken Sandwich
+24,female,white,Salad Meal
+15,female,white,Salad Meal
+62,male,white,Grilled Chicken Sandwich
+34,male,asia,Spicy Chicken Sandwich
+18,male,black,Spicy Chicken Sandwich
+60,male,black,chicken noodle soup
+34,male,white,Spicy Chicken Sandwich
+32,female,asia,Chicken Sandwich
+31,male,black,Grilled Chicken Sandwich
+18,male,white,Chiken Nuggets 10pc
+31,female,white,Spicy Chicken Sandwich
+23,female,white,Chicken Sandwich
+0,female,white,Chiken Nuggets 6pc
+29,male,asia,Chiken Nuggets 10pc
+21,female,asia,Grilled Chicken Sandwich
+57,female,white,Chicken Sandwich
+26,male,asia,Salad Meal
+21,female,white,Spicy Chicken Sandwich
+51,female,black,chicken tortilla soup
+34,male,asia,Chicken Sandwich
+30,male,india,Spicy Chicken Sandwich
+22,male,white,Salad Meal
+57,male,asia,Grilled Chicken Sandwich
+21,male,black,Grilled Chicken Sandwich
+29,male,white,Spicy Chicken Sandwich
+17,male,india,Grilled Chicken Sandwich
+17,female,white,Chiken Nuggets 6pc
+30,female,white,Salad Meal
+37,female,white,Chicken Sandwich
+21,male,white,Chicken Sandwich
+34,female,white,Spicy Chicken Sandwich
+16,male,black,Grilled Chicken Sandwich
+50,female,black,Chiken Nuggets 6pc
+38,male,india,Chicken Sandwich
+31,female,asia,Chicken Sandwich
+29,male,white,Spicy Chicken Sandwich
+27,female,asia,chicken tortilla soup
+23,female,black,Chicken Sandwich
+17,male,black,Grilled Chicken Sandwich
+14,female,black,Spicy Chicken Sandwich
+48,female,white,Spicy Chicken Sandwich
+48,male,india,Grilled Chicken Sandwich
+33,male,white,Chiken Nuggets 10pc
+26,female,black,chicken tortilla soup
+59,female,black,Spicy Chicken Sandwich
+25,male,white,Chicken Sandwich
+23,male,asia,Chicken Sandwich
+17,male,white,Chicken Sandwich
+44,female,white,chicken noodle soup
+23,female,white,Chicken Sandwich
+29,male,white,chicken noodle soup
+61,female,asia,chicken tortilla soup
+24,female,white,Spicy Chicken Sandwich
+39,male,white,chicken tortilla soup
+23,male,white,Chiken Nuggets 6pc
+1,male,white,Grilled Chicken Sandwich
+39,female,white,Spicy Chicken Sandwich
+24,female,white,Spicy Chicken Sandwich
+45,male,asia,Spicy Deluxe Sandwich
+32,female,white,Spicy Chicken Sandwich
+32,male,black,Chiken Nuggets 10pc
+25,male,white,Spicy Chicken Sandwich
+38,male,black,Chiken Nuggets 6pc
+18,female,asia,Spicy Chicken Sandwich
+28,male,white,Spicy Chicken Sandwich
+21,male,white,Chiken Nuggets 6pc
+64,male,white,Grilled Chicken Sandwich
+18,male,white,Chicken Sandwich
+24,male,white,Grilled Chicken Sandwich
+27,female,white,Grilled Chicken Sandwich
+31,male,india,Spicy Deluxe Sandwich
+31,male,asia,Spicy Chicken Sandwich
+61,male,white,Chiken Nuggets 6pc
+23,female,white,Chicken Sandwich
+64,female,white,chicken noodle soup
+21,male,white,Chiken Nuggets 10pc
+28,male,black,Chiken Nuggets 10pc
+33,female,asia,Salad Meal
+19,male,white,Grilled Chicken Sandwich
+32,male,white,Spicy Deluxe Sandwich
+31,male,black,Chiken Nuggets 6pc
+42,female,white,Chicken Sandwich
+30,female,white,Chiken Nuggets 6pc
+21,male,black,Grilled Chicken Sandwich
+24,male,white,Grilled Chicken Sandwich
+61,male,white,Spicy Chicken Sandwich
+34,male,white,Grilled Chicken Sandwich
+31,female,asia,Chiken Nuggets 6pc
+33,female,india,Grilled Chicken Sandwich
+18,male,white,Chiken Nuggets 6pc
+34,female,asia,Spicy Chicken Sandwich
+38,female,india,Grilled Chicken Sandwich
+95,female,india,Spicy Chicken Sandwich
+25,male,white,Grilled Chicken Sandwich
+17,female,india,Chiken Nuggets 6pc
+30,male,white,chicken noodle soup
+32,female,white,Grilled Chicken Sandwich
+31,male,asia,chicken tortilla soup
+0,female,india,Chicken Sandwich
+52,male,asia,Grilled Chicken Sandwich
+32,female,india,Chicken Sandwich
+29,female,white,Chicken Sandwich
+38,female,india,Chiken Nuggets 6pc
+32,female,india,Chiken Nuggets 6pc
+34,female,black,Chicken Sandwich
+22,male,white,Chicken Sandwich
+91,male,black,Spicy Chicken Sandwich
+39,female,asia,Spicy Chicken Sandwich
+97,male,asia,Spicy Deluxe Sandwich
+41,female,black,chicken noodle soup
+39,female,white,Chiken Nuggets 6pc
+19,female,india,Chiken Nuggets 10pc
+23,female,asia,Chicken Sandwich
+27,male,white,nothing
+34,male,white,Grilled Chicken Sandwich
+37,female,asia,Chiken Nuggets 10pc
+58,male,white,Chicken Sandwich
+25,female,black,Grilled Chicken Sandwich
+17,male,white,Chiken Nuggets 10pc
+20,male,white,Salad Meal
+42,male,india,Chiken Nuggets 10pc
+31,male,white,Chicken Sandwich
+40,male,asia,Grilled Chicken Sandwich
+30,female,black,Chicken Sandwich
+34,male,white,Spicy Deluxe Sandwich
+31,female,india,Spicy Chicken Sandwich
+5,male,white,Spicy Chicken Sandwich
+9,male,india,Chicken Sandwich
+56,male,black,Chicken Sandwich
+43,male,black,Salad Meal
+41,male,white,Grilled Chicken Sandwich
+30,female,black,Grilled Chicken Sandwich
+32,male,white,Spicy Chicken Sandwich
+23,male,white,Spicy Chicken Sandwich
+20,female,white,Chicken Sandwich
+39,male,white,Grilled Chicken Sandwich
+28,male,india,Chicken Sandwich
+29,male,black,Chicken Sandwich
+24,male,india,Spicy Deluxe Sandwich
+32,male,white,Chicken Sandwich
+24,male,white,Spicy Chicken Sandwich
+18,male,black,Grilled Chicken Sandwich
+28,male,black,chicken noodle soup
+42,male,white,Chiken Nuggets 6pc
+44,female,white,Salad Meal
+29,male,black,Grilled Chicken Sandwich
+31,female,white,Chicken Sandwich
+28,male,black,Spicy Chicken Sandwich
+23,female,asia,Chicken Sandwich
+43,male,white,Spicy Chicken Sandwich
+24,male,white,Spicy Deluxe Sandwich
+25,female,white,chicken noodle soup
+21,male,white,Chicken Sandwich
+48,female,white,Spicy Chicken Sandwich
+43,female,asia,Spicy Chicken Sandwich
+45,male,white,Spicy Chicken Sandwich
+40,male,white,Chicken Sandwich
+23,male,white,Grilled Chicken Sandwich
+23,female,india,Grilled Chicken Sandwich
+40,male,india,Spicy Chicken Sandwich
+96,male,white,chicken tortilla soup
+28,female,white,Spicy Deluxe Sandwich
+40,female,asia,Spicy Chicken Sandwich
+28,female,black,Chicken Sandwich
+24,male,white,Grilled Chicken Sandwich
+17,male,india,Chicken Sandwich
+58,male,black,Chicken Sandwich
+33,male,india,Chiken Nuggets 10pc
+43,male,black,Spicy Chicken Sandwich
+34,female,asia,chicken noodle soup
+15,male,india,Chiken Nuggets 6pc
+46,male,white,Spicy Chicken Sandwich
+30,female,black,Chiken Nuggets 6pc
+34,male,asia,Chicken Sandwich
+26,male,white,Grilled Chicken Sandwich
+46,male,india,Spicy Chicken Sandwich
+48,male,asia,Grilled Chicken Sandwich
+32,male,india,Chiken Nuggets 10pc
+29,female,white,Chiken Nuggets 6pc
+28,female,black,Chicken Sandwich
+16,male,black,Spicy Chicken Sandwich
+25,male,white,Chiken Nuggets 10pc
+28,male,asia,Spicy Chicken Sandwich
+30,female,asia,Spicy Chicken Sandwich
+21,male,black,Chiken Nuggets 6pc
+44,male,black,Chiken Nuggets 10pc
+24,male,white,Spicy Chicken Sandwich
+56,male,white,Chicken Sandwich
+36,male,black,Chiken Nuggets 6pc
+31,female,white,Chicken Sandwich
+27,male,white,Chicken Sandwich
+32,female,asia,Chicken Sandwich
+10,male,india,Chiken Nuggets 10pc
+31,male,asia,Grilled Chicken Sandwich
+32,male,white,Spicy Chicken Sandwich
+25,female,black,Spicy Chicken Sandwich
+27,male,white,Chicken Sandwich
+38,female,asia,Spicy Chicken Sandwich
+22,female,white,Spicy Chicken Sandwich
+32,male,white,chicken tortilla soup
+42,male,black,Chicken Sandwich
+24,male,white,Chicken Sandwich
+25,male,black,Chicken Sandwich
+33,male,black,chicken noodle soup
+15,female,black,Salad Meal
+16,female,asia,Grilled Chicken Sandwich
+32,female,white,chicken tortilla soup
+40,female,india,Grilled Chicken Sandwich
+43,female,white,Spicy Chicken Sandwich
+24,female,white,Chicken Sandwich
+98,male,india,Chicken Sandwich
+20,male,white,Chicken Sandwich
+5,female,black,Chiken Nuggets 6pc
+38,male,white,chicken noodle soup
+31,male,asia,Chiken Nuggets 10pc
+26,female,asia,chicken noodle soup
+28,male,black,Spicy Chicken Sandwich
+28,female,white,Spicy Deluxe Sandwich
+30,male,white,Salad Meal
+23,female,white,Grilled Chicken Sandwich
+30,male,asia,Chiken Nuggets 6pc
+28,female,white,Spicy Deluxe Sandwich
+23,male,black,Grilled Chicken Sandwich
+36,male,india,Chicken Sandwich
+22,female,asia,Spicy Chicken Sandwich
+24,male,black,Chiken Nuggets 6pc
+28,male,asia,chicken noodle soup
+26,male,white,Spicy Chicken Sandwich
+56,male,asia,Spicy Chicken Sandwich
+27,male,asia,Chiken Nuggets 6pc
+17,male,white,Chicken Sandwich
+22,male,white,Spicy Chicken Sandwich
+89,male,asia,Spicy Chicken Sandwich
+36,male,white,Spicy Chicken Sandwich
+13,female,black,Spicy Chicken Sandwich
+63,female,white,Spicy Chicken Sandwich
+24,male,india,Spicy Chicken Sandwich
+59,male,white,chicken tortilla soup
+27,male,asia,Chicken Sandwich
+55,male,india,Grilled Chicken Sandwich
+9,male,white,nothing
+25,male,black,Spicy Deluxe Sandwich
+67,female,black,Chicken Sandwich
+30,female,white,Spicy Chicken Sandwich
+18,female,black,Chiken Nuggets 10pc
+24,male,white,Spicy Deluxe Sandwich
+34,male,white,Chicken Sandwich
+58,female,asia,Chiken Nuggets 6pc
+32,male,asia,Spicy Deluxe Sandwich
+25,female,black,Chiken Nuggets 10pc
+28,male,india,Grilled Chicken Sandwich
+27,male,black,Spicy Deluxe Sandwich
+32,female,white,Chiken Nuggets 10pc
+16,male,india,Spicy Chicken Sandwich
+58,female,india,Grilled Chicken Sandwich
+47,male,white,Chicken Sandwich
+15,female,india,Chicken Sandwich
+33,male,white,Chiken Nuggets 6pc
+28,female,black,Spicy Deluxe Sandwich
+1,male,white,Spicy Chicken Sandwich
+19,male,white,Chiken Nuggets 10pc
+62,male,white,Chiken Nuggets 10pc
+24,male,black,Grilled Chicken Sandwich
+33,male,white,Grilled Chicken Sandwich
+54,female,asia,Grilled Chicken Sandwich
+25,female,india,Chiken Nuggets 10pc
+25,male,india,Chicken Sandwich
+29,male,white,Salad Meal
+27,female,india,Chicken Sandwich
+23,male,india,Spicy Deluxe Sandwich
+29,female,white,Spicy Deluxe Sandwich
+53,female,white,Grilled Chicken Sandwich
+25,female,black,nothing
+55,female,white,Chicken Sandwich
+33,male,white,Spicy Chicken Sandwich
+46,female,black,Grilled Chicken Sandwich
+28,female,asia,chicken noodle soup
+42,female,white,chicken tortilla soup
+43,female,white,Chiken Nuggets 10pc
+23,female,white,Chicken Sandwich
+75,female,white,Spicy Chicken Sandwich
+31,male,asia,Chicken Sandwich
+28,female,white,Chicken Sandwich
+24,female,white,Grilled Chicken Sandwich
+26,female,black,Spicy Chicken Sandwich
+38,male,white,Grilled Chicken Sandwich
+28,female,asia,Spicy Chicken Sandwich
+13,male,black,Chicken Sandwich
+21,female,white,Grilled Chicken Sandwich
+33,female,asia,Spicy Chicken Sandwich
+73,male,black,chicken tortilla soup
+29,female,white,Grilled Chicken Sandwich
+22,male,white,Chicken Sandwich
+24,male,white,Spicy Chicken Sandwich
+32,male,asia,Chiken Nuggets 10pc
+32,male,asia,Chicken Sandwich
+32,male,white,Chiken Nuggets 10pc
+33,male,white,Spicy Chicken Sandwich
+26,male,black,chicken noodle soup
+12,female,asia,chicken tortilla soup
+27,male,white,Spicy Chicken Sandwich
+27,male,black,Spicy Chicken Sandwich
+50,male,black,Grilled Chicken Sandwich
+10,male,black,Spicy Chicken Sandwich
+34,male,asia,Salad Meal
+28,female,black,Chicken Sandwich
+24,male,white,chicken tortilla soup
+20,male,white,Grilled Chicken Sandwich
+23,female,white,Spicy Deluxe Sandwich
+33,male,white,Chiken Nuggets 6pc
+26,male,white,chicken tortilla soup
+24,female,black,Grilled Chicken Sandwich
+37,female,black,Spicy Deluxe Sandwich
+22,female,india,Salad Meal
+37,male,black,Chiken Nuggets 6pc
+27,male,asia,Chiken Nuggets 6pc
+21,male,white,chicken noodle soup
+21,female,white,nothing
+18,male,india,Grilled Chicken Sandwich
+32,male,india,Chiken Nuggets 6pc
+82,male,white,Spicy Chicken Sandwich
+55,male,white,Chicken Sandwich
+25,female,asia,Chiken Nuggets 6pc
+41,female,black,Chiken Nuggets 10pc
+34,female,white,Grilled Chicken Sandwich
+41,male,black,Spicy Chicken Sandwich
+23,male,white,Spicy Chicken Sandwich
+32,male,black,chicken tortilla soup
+29,male,white,Spicy Deluxe Sandwich
+27,male,india,Chiken Nuggets 6pc
+21,male,asia,Grilled Chicken Sandwich
+46,male,white,Grilled Chicken Sandwich
+47,female,white,Chicken Sandwich
+21,male,white,chicken tortilla soup
+32,female,white,Salad Meal
+22,female,white,Grilled Chicken Sandwich
+32,female,white,chicken noodle soup
+27,female,white,Spicy Chicken Sandwich
+33,male,india,Chicken Sandwich
+40,female,asia,Spicy Chicken Sandwich
+27,male,asia,Spicy Chicken Sandwich
+35,male,white,Spicy Deluxe Sandwich
+18,female,white,Spicy Chicken Sandwich
+36,female,white,Salad Meal
+18,male,white,Chiken Nuggets 6pc
+34,male,india,Spicy Chicken Sandwich
+42,male,white,Spicy Chicken Sandwich
+75,female,white,Spicy Chicken Sandwich
+22,female,black,Spicy Chicken Sandwich
+12,male,white,Chicken Sandwich
+28,male,india,chicken tortilla soup
+59,male,black,Grilled Chicken Sandwich
+23,male,white,Spicy Chicken Sandwich
+22,female,white,Spicy Chicken Sandwich
+22,male,white,Grilled Chicken Sandwich
+39,female,black,Chicken Sandwich
+21,female,india,Grilled Chicken Sandwich
+23,male,black,Grilled Chicken Sandwich
+44,male,india,Grilled Chicken Sandwich
+34,female,white,chicken noodle soup
+21,female,white,Chiken Nuggets 6pc
+18,female,white,Grilled Chicken Sandwich
+31,female,india,Chiken Nuggets 6pc
+28,female,asia,Chiken Nuggets 6pc
+46,female,white,nothing
+18,male,india,Salad Meal
+43,male,asia,Grilled Chicken Sandwich
+38,female,white,Grilled Chicken Sandwich
+40,male,white,Salad Meal
+20,male,white,Spicy Chicken Sandwich
+53,male,white,Chicken Sandwich
+29,male,white,Chiken Nuggets 6pc
+23,female,white,Chicken Sandwich
+77,male,black,Chiken Nuggets 10pc
+26,female,white,Grilled Chicken Sandwich
+20,male,asia,Grilled Chicken Sandwich
+20,female,white,Chicken Sandwich
+63,male,india,chicken tortilla soup
+25,female,black,Grilled Chicken Sandwich
+21,female,asia,chicken tortilla soup
+47,male,white,Chicken Sandwich
+26,male,india,Grilled Chicken Sandwich
+27,male,asia,Chicken Sandwich
+27,male,black,Chiken Nuggets 6pc
+24,female,white,Chicken Sandwich
+23,male,india,Chicken Sandwich
+29,male,asia,Spicy Chicken Sandwich
+5,male,india,Chicken Sandwich
+34,male,black,Grilled Chicken Sandwich
+23,male,white,Grilled Chicken Sandwich
+23,male,white,Chiken Nuggets 10pc
+61,male,asia,Spicy Chicken Sandwich
+43,female,white,chicken tortilla soup
+53,male,india,Chicken Sandwich
+87,male,white,Chiken Nuggets 6pc
+25,female,white,Chicken Sandwich
+27,female,white,Chiken Nuggets 10pc
+39,female,black,Chicken Sandwich
+9,female,black,Chiken Nuggets 10pc
+21,male,white,Spicy Chicken Sandwich
+40,male,white,Grilled Chicken Sandwich
+42,female,white,Chicken Sandwich
+57,female,black,Chiken Nuggets 6pc
+28,female,white,Chicken Sandwich
+41,male,white,Chicken Sandwich
+29,female,black,Spicy Chicken Sandwich
+14,male,white,Chiken Nuggets 6pc
+22,female,black,Chiken Nuggets 10pc
+32,male,white,Grilled Chicken Sandwich
+51,female,white,Spicy Chicken Sandwich
+26,male,asia,Chicken Sandwich
+32,female,white,Spicy Chicken Sandwich
+15,male,white,Chiken Nuggets 10pc
+23,male,black,Spicy Deluxe Sandwich
+62,male,white,Grilled Chicken Sandwich
+38,male,asia,Spicy Deluxe Sandwich
+42,male,black,Grilled Chicken Sandwich
+28,male,white,Spicy Chicken Sandwich
+10,male,black,Chiken Nuggets 10pc
+12,male,black,Spicy Chicken Sandwich
+7,male,india,Chiken Nuggets 10pc
+42,female,asia,Chiken Nuggets 6pc
+21,male,white,Chicken Sandwich
+5,male,black,Chiken Nuggets 10pc
+10,female,white,chicken noodle soup
+22,male,india,Chicken Sandwich
+31,female,black,chicken noodle soup
+20,female,white,Grilled Chicken Sandwich
+24,male,black,Spicy Chicken Sandwich
+19,male,white,nothing
+16,female,white,Grilled Chicken Sandwich
+44,female,black,Chicken Sandwich
+99,male,black,chicken noodle soup
+21,male,white,chicken noodle soup
+33,male,white,Chicken Sandwich
+42,female,asia,Chicken Sandwich
+20,male,india,Chiken Nuggets 6pc
+31,female,black,Grilled Chicken Sandwich
+31,female,india,Spicy Chicken Sandwich
+52,male,white,Chiken Nuggets 6pc
+30,female,white,Grilled Chicken Sandwich
+35,female,black,Spicy Deluxe Sandwich
+25,male,india,Chicken Sandwich
+40,female,white,Spicy Deluxe Sandwich
+40,male,black,chicken noodle soup
+42,female,white,Chiken Nuggets 6pc
+17,male,india,Grilled Chicken Sandwich
+19,female,black,Spicy Chicken Sandwich
+34,female,black,chicken noodle soup
+21,female,white,Grilled Chicken Sandwich
+17,male,white,Chicken Sandwich
+13,male,white,Grilled Chicken Sandwich
+10,male,black,Chiken Nuggets 10pc
+42,female,white,Chiken Nuggets 10pc
+28,female,black,Grilled Chicken Sandwich
+10,male,white,Grilled Chicken Sandwich
+34,female,white,nothing
+25,male,white,Spicy Chicken Sandwich
+28,female,black,Chiken Nuggets 6pc
+46,male,india,Chicken Sandwich
+25,female,asia,Chiken Nuggets 6pc
+21,female,black,Spicy Chicken Sandwich
+24,male,asia,Chiken Nuggets 6pc
+40,male,india,Grilled Chicken Sandwich
+59,male,black,Spicy Deluxe Sandwich
+40,male,white,Spicy Chicken Sandwich
+28,male,asia,Chicken Sandwich
+15,female,black,Spicy Chicken Sandwich
+29,male,white,chicken tortilla soup
+38,female,white,Grilled Chicken Sandwich
+52,male,asia,Chicken Sandwich
+23,female,black,Chicken Sandwich
+32,male,india,Spicy Chicken Sandwich
+20,female,white,Chicken Sandwich
+26,male,asia,Salad Meal
+32,male,india,Chicken Sandwich
+23,female,white,Spicy Chicken Sandwich
+5,male,white,Spicy Chicken Sandwich
+25,male,white,Spicy Chicken Sandwich
+64,male,white,Spicy Chicken Sandwich
+61,female,white,Chicken Sandwich
+25,female,asia,Spicy Chicken Sandwich
+28,female,black,Spicy Chicken Sandwich
+56,male,black,Grilled Chicken Sandwich
+35,male,asia,Grilled Chicken Sandwich
+39,male,black,Salad Meal
+26,male,white,Chiken Nuggets 6pc
+10,male,white,Chicken Sandwich
+72,female,white,Grilled Chicken Sandwich
+55,female,black,Chiken Nuggets 6pc
+22,female,black,Spicy Chicken Sandwich
+30,female,white,Grilled Chicken Sandwich
+35,male,india,Grilled Chicken Sandwich
+1,female,white,Spicy Chicken Sandwich
+34,female,black,Salad Meal
+44,male,black,Spicy Chicken Sandwich
+50,female,asia,Grilled Chicken Sandwich
+27,male,white,Spicy Chicken Sandwich
+24,female,white,Spicy Chicken Sandwich
+33,female,black,Spicy Chicken Sandwich
+17,male,black,Grilled Chicken Sandwich
+34,female,asia,Chicken Sandwich
+31,male,white,Grilled Chicken Sandwich
+20,female,white,Grilled Chicken Sandwich
+70,male,black,Grilled Chicken Sandwich
+63,male,india,Grilled Chicken Sandwich
+31,male,white,Spicy Chicken Sandwich
+16,male,white,Chicken Sandwich
+41,female,white,Chicken Sandwich
+22,male,black,chicken noodle soup
+30,male,white,Spicy Chicken Sandwich
+44,male,white,Chicken Sandwich
+24,male,white,nothing
+23,male,white,Chiken Nuggets 6pc
+92,male,asia,Spicy Chicken Sandwich
+15,male,black,Grilled Chicken Sandwich
+34,male,india,Chiken Nuggets 10pc
+27,male,white,Spicy Chicken Sandwich
+61,male,white,Chiken Nuggets 6pc
+25,male,white,Chicken Sandwich
+22,male,white,Spicy Chicken Sandwich
+30,male,white,Chicken Sandwich
+26,female,white,chicken noodle soup
+77,male,black,Chicken Sandwich
+96,male,india,Spicy Chicken Sandwich
+23,male,asia,Chicken Sandwich
+32,female,india,Chicken Sandwich
+22,male,black,Chiken Nuggets 6pc
+33,female,asia,Chicken Sandwich
+31,male,black,Spicy Chicken Sandwich
+38,male,asia,Chicken Sandwich
+28,female,asia,Chicken Sandwich
+27,male,india,Spicy Deluxe Sandwich
+29,female,black,Spicy Chicken Sandwich
+31,male,white,Spicy Chicken Sandwich
+34,male,white,Chicken Sandwich
